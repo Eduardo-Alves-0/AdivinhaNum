@@ -1,4 +1,5 @@
-# AdivinhaNumAdivinhaNum é um jogo interativo desenvolvido com JavaScript que desafia o jogador a adivinhar um número secreto entre 1 e 100 gerado aleatoriamente. O jogador possui até cinco tentativas por rodada e recebe dicas em tempo real indicando se o número inserido é maior ou menor que o alvo. O jogo inclui validações para garantir entrada válida e permite que o usuário jogue quantas rodadas quiser, tudo através de interações com prompt() e alert().
+# AdivinhaNumA
+divinhaNum é um jogo interativo desenvolvido com JavaScript que desafia o jogador a adivinhar um número secreto entre 1 e 100 gerado aleatoriamente. O jogador possui até cinco tentativas por rodada e recebe dicas em tempo real indicando se o número inserido é maior ou menor que o alvo. O jogo inclui validações para garantir entrada válida e permite que o usuário jogue quantas rodadas quiser, tudo através de interações com prompt() e alert().
 Funcionalidades principais:
 - 🔢 Geração aleatória de número entre 1 e 100
 - 🎮 Até 5 tentativas por rodada para acertar
